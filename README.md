@@ -16,7 +16,7 @@ O principal objetivo com este trabalho era construir um Tamagotchi que sentia ne
 ## Rode o projeto
 ````
 git clone https://github.com/pedrozandonai/Tamagotchi.git
-cd src/
+cd Tamagotchi/src/
 javac Principal.java
 java Principal.java
 ````
